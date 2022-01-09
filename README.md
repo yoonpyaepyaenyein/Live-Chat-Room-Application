@@ -1,5 +1,8 @@
 # live-chat
 
+# Chatting room website written in Vue.js, JavaScript, HTML & CSS
+
+
 ## Project setup
 ```
 npm install
